@@ -1,0 +1,28 @@
+main{
+    width: 90%;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+}
+.h1{
+    font-size: 50px;
+    color: blue;
+    margin-bottom: 20px;
+}
+.img{
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px auto;
+}
+.img__p{
+    font-size: 15px;
+}
+div > p{
+    font-size: 20px;
+}
+.content__p{
+    margin-bottom: 10px;
+}
